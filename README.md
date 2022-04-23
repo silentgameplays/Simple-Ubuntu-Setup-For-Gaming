@@ -43,6 +43,7 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 * Categories=Application;Network;X-Developer;
 * Comment=Firefox Developer Edition Web Browser.
 * StartupWMClass=Firefox Developer Edition
+# Ctrl+O to save,Ctrl+X to exit!
 # Mark the Firefox Developer Edition launcher as trusted and make it executable.
 * chmod +x ~/.local/share/applications/firefox_dev.desktop
 # Remove the snap Firefox by using this command:
