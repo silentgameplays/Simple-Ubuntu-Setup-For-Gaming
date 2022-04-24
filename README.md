@@ -97,5 +97,7 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 # NB!Create the following folders plugins->nvfbc->bin->64bit
 # paste nvfbc.so into 64bit
 # Go to OBS Studio and add the NvFBC Source to your scene
+# Optional similar to mkinitcpio:
+* sudo update-initramfs -u
 That is it,you should be good for most use cases.Hope it helps!
 #silentgamepls
