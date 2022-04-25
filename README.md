@@ -79,6 +79,13 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 # 7.(Optional) Install optional apps like obs-studio,shotcut,celluloid,mpv,steam
 * sudo apt install obs-studio shotcut mpv celluloid steam
 
+# (Optional) Install Glourious Eggroll Proton GE the easy way:
+ * Download the latest release here: https://github.com/GloriousEggroll/proton-ge-custom/releases
+ * Extract,enable hidden files and folders 
+ * Create a folder in your /home/user/config/.steam/root/compatibilitytools.d if it does not exist.
+ * Copy/paste the extracted GE folder into /home/user/config/.steam/root/compatibilitytools.d
+ * Restart Steam,enjoy the custom GE build
+ 
 # 8.Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint:
 # Get nvidia-patch: https://github.com/keylase/nvidia-patch
 # Extract and go to the folder
@@ -99,5 +106,6 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 # Go to OBS Studio and add the NvFBC Source to your scene
 # Optional similar to mkinitcpio:
 * sudo update-initramfs -u
+
 That is it,you should be good for most use cases.Hope it helps!
 #silentgamepls
