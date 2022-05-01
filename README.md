@@ -63,6 +63,9 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 * sudo apt install mingw-w64 gcc-9-locales wine wine64 ffmpeg2theora flvmeta mencoder mjpegtools x265 x264 mpv mpg123 libxvidcore4 ffmpeg
 * sudo apt update
 * sudo apt upgrade
+* sudo add-apt-repository multiverse
+* sudo apt update
+* sudo apt install ubuntu-restricted-extras
 # 4. Install dxvk
 * sudo apt install dxvk
 * sudo apt update
