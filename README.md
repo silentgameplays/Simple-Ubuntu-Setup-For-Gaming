@@ -60,7 +60,7 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 * sudo apt upgrade 
 # 3.Install dependencies and apps like sdl2,mingw64,wine,additional,codecs x264,x265,libxvidcore4,flv,mpg123,ffmpeg:
 * sudo apt install fizmo-sdl2 libsdl2-2.0-0 libsdl2-dev libsdl2-gfx-1.0-0 libsdl2-gfx-dev libsdl2-image-2.0-0 libsdl2-mixer-2.0-0 libsdl2-net-2.0-0
-* sudo apt install mingw-w64 gcc-9-locales wine wine64 ffmpeg2theora flvmeta mencoder mjpegtools x265 x264 mpv mpg123 libxvidcore4 ffmpeg
+* sudo apt install mingw-w64 gcc-9-locales wine wine64 flvmeta mencoder mjpegtools x265 x264 mpv mpg123 libxvidcore4 ffmpeg
 * sudo apt update
 * sudo apt upgrade
 * sudo add-apt-repository multiverse
@@ -89,7 +89,7 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
  * Copy/paste the extracted GE folder into /home/user/config/.steam/root/compatibilitytools.d
  * Restart Steam,enjoy the custom GE build
  
-# 8.Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint:
+# 8.(Depreacated on OBS 28)Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint:
 # Get nvidia-patch: https://github.com/keylase/nvidia-patch
 # Extract and go to the folder
 # Open in terminal
