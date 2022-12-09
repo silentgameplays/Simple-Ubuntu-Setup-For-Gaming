@@ -113,4 +113,5 @@ So in this tutorial we will be optimizing Ubuntu 22.04 for gaming and installing
 That is it,you should be good for most use cases.Hope it helps!
 # YouTube video on how to
 https://youtu.be/I0TaPMrl7sE
-#silentgamepls
+
+# silentgamepls
